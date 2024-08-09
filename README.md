@@ -15,3 +15,7 @@ There are absolutly no checks in place for filetype, file size, bitness and what
 
 The Z scale is a bit of guesswork. Heightmaps dont have to start at 0 and end at 65535 nor does the pixels in height have to mean anything. Since its so different from map to map, i left it as a simple scale option you have to experiment with. Here is an example of my settings when importing the entire island of Malta:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RTBModding/Heightmap-plugin/main/scrn1.png" width="350">
+  <img src="https://raw.githubusercontent.com/RTBModding/Heightmap-plugin/main/scrn2.png" width="350">
+</p>
