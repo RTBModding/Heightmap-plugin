@@ -21,3 +21,5 @@ The Z scale is a bit of guesswork. Heightmaps don't have to start at 0 and end a
   <img src="https://raw.githubusercontent.com/RTBModding/Heightmap-plugin/main/scrn1.png" width="350">
   <img src="https://raw.githubusercontent.com/RTBModding/Heightmap-plugin/main/scrn2.png" width="350">
 </p>
+
+Here is a video: https://www.youtube.com/watch?v=BGlzVsg2T4s
